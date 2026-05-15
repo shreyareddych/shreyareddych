@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Shreya Reddy
+#  Shreya Reddy
 
 ### Backend Engineer • Distributed Systems • AI Applications • Full Stack Development
 
