@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Shreya Reddy
+#  Shreya Reddy Chidirala
 
 ### Backend Engineer • Distributed Systems • AI Applications • Full Stack Development
 
@@ -15,8 +15,6 @@
 <a href="https://github.com/shreyareddych">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=shreyareddych&style=for-the-badge&color=blue"/>
 
 </div>
 
