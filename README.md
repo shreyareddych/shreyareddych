@@ -4,7 +4,7 @@
 
 ### Backend Engineer • Distributed Systems • AI Applications • Full Stack Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Distributed+Systems+Developer;AI+%26+NLP+Enthusiast;Building+Scalable+Applications;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+%26+NLP+Enthusiast;Building+Scalable+Applications;Full+Stack+Developer" />
 
 <br/>
 
