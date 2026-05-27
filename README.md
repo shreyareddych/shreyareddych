@@ -24,7 +24,6 @@
 
 ```yaml
 Name: Shreya Reddy Chidirala
-Role: Backend Engineer
 Education: Computer Science Graduate
 Interests:
   - Distributed Systems
