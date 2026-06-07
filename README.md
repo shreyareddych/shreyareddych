@@ -22,17 +22,18 @@
 
 # About Me
 
-Computer Science graduate with experience building scalable backend systems, cloud-native applications, AI-powered platforms, and full-stack software solutions. Passionate about distributed systems, microservices, machine learning applications, and high-performance software engineering.
+Computer Science graduate with experience developing scalable backend systems, cloud-native applications, and AI-powered software solutions. Skilled in building distributed systems, designing high-performance APIs, and developing production-ready applications using modern software engineering practices.
 
 ---
 
 # Current Focus
 
-* Building scalable backend systems using Python, Java, and Node.js
-* Designing REST APIs and microservices architectures
-* Developing AI-powered applications using NLP and Deep Learning
-* Working with cloud-native technologies and containerized deployments
-* Exploring distributed infrastructure, Kubernetes, and system design
+* Backend Development using Python, Java, and Node.js
+* Distributed Systems and Scalable Architectures
+* AI and NLP Applications
+* Cloud-Native Development on AWS
+* Microservices and API Engineering
+* Containerization, Kubernetes, and DevOps Practices
 
 ---
 
@@ -46,16 +47,16 @@ Computer Science graduate with experience building scalable backend systems, clo
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![RESTAPI](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-![SocketIO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 
 </div>
 
@@ -66,7 +67,7 @@ Computer Science graduate with experience building scalable backend systems, clo
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -80,11 +81,11 @@ Computer Science graduate with experience building scalable backend systems, clo
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
@@ -96,11 +97,11 @@ Computer Science graduate with experience building scalable backend systems, clo
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
 </div>
 
@@ -143,31 +144,5 @@ Machine learning system for early detection of Parkinson's disease through speec
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyareddych&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyareddych&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Engineering Interests
-
-<div align="center">
-
-Distributed Systems • Backend Engineering • Cloud Infrastructure • AI Applications • Microservices • System Design • Performance Optimization
-
-</div>
-
----
-
-<div align="center">
-
-### Open to Software Engineering, Backend Development, AI Engineering, and Full Stack Opportunities
 
 </div>
