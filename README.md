@@ -8,12 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shreyareddych&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/shreyareddych?style=for-the-badge"/>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/shreya-reddy-chidirala-025b60210">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,18 +22,18 @@
 
 ## About Me
 
-Computer Science graduate focused on backend engineering, distributed systems, AI-powered applications, and cloud-native software development. Experienced in designing scalable APIs, building production-ready applications, and developing intelligent systems using modern software engineering practices.
+Computer Science graduate focused on backend engineering, distributed systems, cloud-native applications, and AI-powered software development. Passionate about building scalable systems, designing reliable APIs, and developing production-ready solutions.
 
 ---
 
 ## Current Focus
 
-* Scalable Backend Systems
-* Distributed Architectures
-* AI & NLP Applications
-* Cloud-Native Development
-* Microservices Engineering
-* Performance Optimization
+- Backend Development using Python, Java, and Node.js
+- Distributed Systems and Scalable Architectures
+- AI and NLP Applications
+- Cloud-Native Development on AWS
+- Microservices Engineering
+- Performance Optimization
 
 ---
 
@@ -47,7 +41,7 @@ Computer Science graduate focused on backend engineering, distributed systems, A
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,nodejs,express,react,nextjs,spring,mysql,postgres,mongodb,redis,aws,docker,kubernetes,linux,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,nodejs,express,react,nextjs,spring,mysql,postgres,mongodb,redis,aws,docker,kubernetes,linux,git,github" />
 
 </div>
 
@@ -56,30 +50,16 @@ Computer Science graduate focused on backend engineering, distributed systems, A
 ## Featured Projects
 
 ### NotebookLLM
-
 Multi-notebook Retrieval-Augmented Generation platform built using LangChain, LangGraph, FastAPI, ChromaDB, and AWS for intelligent document understanding and conversational knowledge retrieval.
 
 ### Amazon Review Sentiment Analysis
-
 Machine learning system for large-scale sentiment classification using NLP techniques and predictive modeling to analyze customer feedback and product reviews.
 
 ### Wav2Lip AI Lip Sync Generator
-
 Deep learning application that generates realistic lip synchronization from audio inputs using computer vision and neural network architectures.
 
 ### Parkinson's Disease Detection
-
 Machine learning-based voice analysis system for early detection of Parkinson's disease through speech feature extraction and predictive analytics.
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shreyareddych&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
@@ -113,7 +93,7 @@ Machine learning-based voice analysis system for early detection of Parkinson's 
 
 ---
 
-## Engineering Interests
+## Areas of Interest
 
 <div align="center">
 
@@ -123,24 +103,8 @@ Backend Engineering • Distributed Systems • Cloud Computing • AI Applicati
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shreya-reddy-chidirala-025b60210">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:chidiralashreyareddy1111@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Building scalable software systems and intelligent applications."*
+Open to Software Engineering, Backend Development, AI Engineering, and Full Stack opportunities.
 
 </div>
